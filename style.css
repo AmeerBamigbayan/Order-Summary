@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'RedHatDisplay';
+    src: url("RedHatDisplay-VariableFont_wght.ttf");
+}
+
 *{
     margin: 0;
     padding: 0;   
