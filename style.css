@@ -9,12 +9,12 @@
 }
 
 body{
-    font-family: 'Outfit', sans-serif;
+    font-family: 'RedHatDisplay', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 400;
     background-repeat: no-repeat;
-    background-size: cover;
-    background-color: #d5e1ef;
+    background-color: ;
+    background: url("img/pattern-background-desktop.svg");
     align-items: center;
 }
