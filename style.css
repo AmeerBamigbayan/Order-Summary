@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Red+Hat+Display:wght@500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;400;500;600;700;800;900&display=swap');
 
 @font-face {
     font-family: 'RedHatDisplay';
@@ -40,7 +40,7 @@ h1{
     color: hsl(223, 47%, 23%);
     font-family: 'RedHatDisplay' , sans-serif;
     font-size: 20px;
-    font-weight: auto;
+    font-weight: 900;
     margin: 20px 0 10px 0;
 }
 
@@ -117,10 +117,11 @@ h5{
 .btn .btn2{
     font-size: 10px;
     padding-bottom: 30px;
-    padding-top: 15px; 
+    padding-top: 5px; 
     font-weight: 900;
     color: hsl(224, 23%, 55%);
     cursor: pointer;
+    font-family: sans-serif;
 }
 
 .btn .btn2:hover{
