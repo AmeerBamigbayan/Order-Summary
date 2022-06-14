@@ -35,17 +35,6 @@ body{
    border-radius: 20px 20px 0px 0px;
 }
 
-.pricing{
-    display: flex;
-    justify-content: space-between;
-    background-color: #f8f9fe;
-    margin: 10px auto;
-    border-radius: 5px;
-    width: 90%;
-    padding: 10px;
-    align-items: center;
-}    
-
 h1{
     color: hsl(223, 47%, 23%);
     font-family: 'RedHatDisplay' , sans-serif;
@@ -59,6 +48,28 @@ p{
     color: hsl(224, 23%, 55%);
     font-weight: 500;
     margin-bottom: 30px;
+}
+
+.pricing{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f8f9fe;
+    margin: 20px auto;
+    border-radius: 5px;
+    width: 75%;
+    padding: 10px;
+    align-items: center;
+}    
+
+.p2{
+    font-size: 11px;
+}
+
+.change{
+    font-size: 11px;
+    text-decoration: underline;
+    color: #382ae1;
+    font-weight: 600;
 }
 .left{
     display: flex;
